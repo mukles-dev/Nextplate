@@ -1,6 +1,6 @@
 ---
 title: This is the title.
-meta_title: About
+meta_title: This is meta title.
 description: this is meta description
 image: /images/avatar.png
 draft: false
