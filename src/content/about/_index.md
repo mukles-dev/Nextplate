@@ -11,4 +11,4 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 
 this mac.
 
-![image.png](public/images/image_copy\(3\).png)
+![image.png](/images/image_copy\(6\).png)
