@@ -10,5 +10,3 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt
 > ***Mukles*** Hossen.
 
 this mac.
-
-![image.png](/images/image_copy\(6\).png)
