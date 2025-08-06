@@ -1,8 +1,8 @@
 ---
 title: 'Product Designer vs. UX Designer: An Explained Analysis'
 meta_title: 'Product Designer vs. UX Designer: An Explained Analysis | UIHut'
-date: 2025-03-09T18:00:00.000Z
-last_update: 2025-08-05T18:00:00.000Z
+date: 2025-08-07T18:00:00.000Z
+last_update: {}
 image: /blog/Product_designer_vs_ux_designer.webp
 author: Mehedi Sharif
 description: >-
