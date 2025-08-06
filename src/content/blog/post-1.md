@@ -23,7 +23,7 @@ Some companies also interchange the two. What’s the difference? And if you hav
 
 ## What is Product Design?
 
-![](</blog/What is Product Design.png>)
+![](/images/cookie.png)
 
 First of all, let’s give a product designer definition so we know what we’re talking about. What exactly is product design?
 
