@@ -49,7 +49,7 @@ Designing a product without consideration of the behavior of users will not be s
 
 ## What is UX Design?
 
-![](</blog/What is UX Design.png>)
+![](/images/image-placeholder.png)
 
 UX design is in charge of the interaction between the user and the product. Business goals are important, but client satisfaction is the number one priority.
 
