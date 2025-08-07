@@ -2,7 +2,9 @@
 title: 'Product Designer vs. UX Designer: An Explained Analysis.'
 meta_title: 'Product Designer vs. UX Designer: An Explained Analysis | UIHut'
 date: 2025-08-22T18:00:00.000Z
-last_update: {}
+last_update:
+  id: 7840cc56-ae81-4366-b52b-8e36730e6f09
+  value: {}
 image: /images/blog/Product_designer_vs_ux_designer.webp
 author: Mehedi Sharif
 description: >-
@@ -14,6 +16,8 @@ categories:
 draft: false
 ---
 When people think of a designer, they probably think of someone who is only responsible for making things look pretty. They may not realize that what they see is the result of customer research, a lot of testing, and usually some pivoting thanks to this testing. When most people look at a product, they rarely realize how much work it takes to turn a complicated idea into something a customer finds helpful
+
+![cookie.png](/images/cookie_copy\(1\).png)
 
 [Product design](https://uihut.com/designs/20230502125940mp_/https://uihut.com/all/Hosting-Web-Applications/22707) is a primary part of our everyday life. As most people have no idea what goes into the process, it’s safe to say they don’t know how to differentiate between a product designer and a UX designer.
 
