@@ -4,7 +4,7 @@ email: samwilson@email.com
 image: /images/avatar.png
 description: This is meta description
 social:
-  - name: github
+  - name: github fa sdfass
     icon: FaGithub
     link: https://github.com/tfmukles
   - name: twitter
