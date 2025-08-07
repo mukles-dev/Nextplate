@@ -7,6 +7,7 @@ image: /images/cookie.png
 categories:
   - Technology
   - Data
+  - Headless cms
 author: Sam Wilson
 tags:
   - technology
