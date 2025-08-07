@@ -5,8 +5,8 @@ description: This is meta description
 date: {}
 image: /images/cookie.png
 categories:
-  - Technology
   - Data
+  - Technology
   - Headless cms
 author: Sam Wilson
 tags:
