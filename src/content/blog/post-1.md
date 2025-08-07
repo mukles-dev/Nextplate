@@ -76,3 +76,5 @@ categories:
 draft: false
 ---
 ![cookie.png](/images/cookie_copy\(4\).png)
+
+![cookie.png](/images/cookie_copy\(5\).png)
