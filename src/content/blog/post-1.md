@@ -1,8 +1,8 @@
 ---
 title: 'Product Designer vs. UX Designer: An Explained Analysis.'
 meta_title: 'Product Designer vs. UX Designer: An Explained Analysis | UIHut'
-date: 2025-08-23T04:07:00.000Z
-last_update: 2025-08-23T04:07:00.000Z
+date: 2025-08-22T04:07:00.000Z
+last_update: 2025-08-15T04:07:00.000Z
 image: /images/blog/Product_designer_vs_ux_designer.webp
 author: Mehedi Sharif
 description: >-
@@ -13,6 +13,6 @@ categories:
   - Design
   - web-development
   - saiyara movie
-draft: false
+draft: true
 ---
 ![cookie.png](/images/cookie_copy\(1\).png)
