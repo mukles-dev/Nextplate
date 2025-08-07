@@ -6,7 +6,7 @@ description: this is meta description
 social:
   - name: github
     icon: FaGithub
-    link: https://github.com
+    link: https://github.com/tfmukles
   - name: twitter
     icon: FaTwitter
     link: https://twitter.com
