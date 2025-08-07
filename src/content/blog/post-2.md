@@ -3,7 +3,7 @@ title: How to build an Application with modern Technology
 meta_title: ''
 description: This is meta description
 date: {}
-image: /images/image-placeholder.png
+image: /images/cookie.png
 categories:
   - Technology
   - Data
