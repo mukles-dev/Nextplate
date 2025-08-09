@@ -1,7 +1,7 @@
 ---
 title: Elements
 meta_title: this is meta title.
-description: this is meta description
+description: This is meta description
 draft: false
 ---
 
