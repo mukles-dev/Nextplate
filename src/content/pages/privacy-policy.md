@@ -1,10 +1,9 @@
 ---
-title: "Privacy"
-meta_title: ""
-description: "this is meta description"
+title: Privacy
+meta_title: This is meta title
+description: this is meta description
 draft: false
 ---
-
 #### Responsibility of Contributors
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
