@@ -3,7 +3,13 @@
     {
       "name": "Home",
       "url": "/",
-      "hasChildren": true
+      "hasChildren": true,
+      "children": [
+        {
+          "name": "vabi tumi ashbe phere dhorbe ei hat gulo",
+          "url": ""
+        }
+      ]
     },
     {
       "name": "About",
@@ -54,5 +60,6 @@
       "name": "Privacy Policy",
       "url": "/privacy-policy"
     }
-  ]
+  ],
+  "draft": false
 }
