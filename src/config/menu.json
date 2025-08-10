@@ -2,7 +2,8 @@
   "main": [
     {
       "name": "Home",
-      "url": "/"
+      "url": "/",
+      "hasChildren": true
     },
     {
       "name": "About",
