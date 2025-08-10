@@ -1,6 +1,6 @@
 ---
 title: Contact
 meta_title: This meta.
-description: this is meta description.
+description: This is descriptions.
 draft: false
 ---
