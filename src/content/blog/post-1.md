@@ -15,4 +15,3 @@ categories:
   - saiyara movie
 draft: false
 ---
-![cookie.png](/images/cookie_copy\(1\).png)
