@@ -11,22 +11,26 @@ banner:
     label: Get Started For Free
     link: https://github.com/zeon-studio/nextplate
 features:
-  - title: What's Included in Nextplate this test
-    image: /images/service-1.png
-    content: >-
-      Nextplate is a comprehensive starter template that includes everything you
-      need to get started with your Next project. What's Included in Nextplate
-    bulletpoints:
-      - 10+ Pre-build pages
-      - 95+ Google Pagespeed Score
-      - Build with Next and TailwindCSS for easy and customizable styling
-      - Fully responsive on all devices
-      - SEO-optimized for better search engine rankings
-      - '**Open-source and free** for personal and commercial use'
-    button:
-      enable: false
-      label: Get Started Now
-      link: '#'
+  - id: 30dbb41d-1f9b-4cfb-977a-cfc9e1dc6fa3
+    value:
+      title: What's Included in Nextplate this test
+      image: /images/service-1.png
+      content: >-
+        Nextplate is a comprehensive starter template that includes everything
+        you need to get started with your Next project. What's Included in
+        Nextplate
+      bulletpoints:
+        - 10+ Pre-build pages
+        - 95+ Google Pagespeed Score
+        - Build with Next and TailwindCSS for easy and customizable styling
+        - Fully responsive on all devices
+        - SEO-optimized for better search engine rankings
+        - '**Open-source and free** for personal and commercial use'
+      button:
+        enable: false
+        label: Get Started Now
+        link: '#'
+    image: /images/service-3.png
   - title: Discover the Key Features Of Next
     image: /images/service-2.png
     content: >-
@@ -61,5 +65,5 @@ features:
       enable: false
       label: ''
       link: ''
+draft: false
 ---
-![image.png](/images/image.png)
