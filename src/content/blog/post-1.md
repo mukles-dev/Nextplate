@@ -3,7 +3,7 @@ title: 'Product Designer vs. UX Designer: An Explained Analysis.'
 meta_title: 'Product Designer vs. UX Designer: An Explained Analysis.'
 date: 2025-08-23T04:07:00.000Z
 last_update: 2025-08-27T04:07:00.000Z
-image: /images/blog/Product_designer_vs_ux_designer.webp
+image: media/public/images/og-image_copy(1).png
 author: Mehedi Sharif
 description: >-
   Discover the ultimate guide to the mobile app design process! Learn key steps,
@@ -15,4 +15,4 @@ categories:
   - saiyara movie
 draft: false
 ---
-![image.png](/.)
+![image.png](/images/images/image_copy\(5\).png)
