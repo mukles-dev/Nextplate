@@ -5,7 +5,7 @@ banner:
     Nextplate is a free starter template built with Next and TailwindCSS,
     providing everything you need to jumpstart your Next project and save
     valuable time.
-  image: /images/banner.png
+  image: /images/blog/banner.png
   button:
     enable: true
     label: Get Started For Free
