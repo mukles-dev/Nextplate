@@ -31,6 +31,9 @@ features:
         label: Get Started Now
         link: '#'
     image: /images/service-3.png
+    bulletpoints:
+      - 10+ Pre-build pages
+      - 95+ Google Pagespeed Score
   - title: Discover the Key Features Of Next
     image: /images/service-2.png
     content: >-
