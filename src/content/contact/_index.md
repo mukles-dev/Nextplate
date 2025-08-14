@@ -1,12 +1,12 @@
 ---
 title: This is Contact
 meta_title: This is meta title
-description: This is descriptions.
+description: This is descriptions
 draft: false
 ---
 # Heading title
 
-*  rasfa
+* rasfa
 
 1. list
 2. list
