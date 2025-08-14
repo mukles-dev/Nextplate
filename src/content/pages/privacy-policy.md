@@ -1,7 +1,7 @@
 ---
 title: Privacy
 meta_title: This is meta title
-description: this is meta description
+description: This is meta description
 draft: false
 ---
 #### Responsibility of Contributors
