@@ -2,7 +2,7 @@
 title: This is Contact.
 meta_title: This is meta title.
 description: This is descriptions.
-draft: true
+draft: false
 ---
 # Heading title
 
