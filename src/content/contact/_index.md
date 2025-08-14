@@ -1,7 +1,7 @@
 ---
 title: This is Contact
 meta_title: This is meta title
-description: This is descriptions
+description: This is description
 draft: false
 ---
 # Heading title
