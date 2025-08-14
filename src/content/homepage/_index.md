@@ -11,7 +11,7 @@ banner:
     label: Get Started For Free
     link: https://github.com/zeon-studio/nextplate
 features:
-  - id: 30dbb41d-1f9b-4cfb-977a-cfc9e1dc6fa3
+  - id: id
     value:
       title: What's Included in Nextplate this test
       image: /images/service-1.png
