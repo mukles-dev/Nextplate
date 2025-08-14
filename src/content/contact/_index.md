@@ -8,4 +8,7 @@ draft: false
 
 This is title.
 
-![image.png](/images/images/image_copy\(5\).png)
+![image.png](/images/image-placeholder.png)
+fasdf
+
+![images](/images/avatar.png)
