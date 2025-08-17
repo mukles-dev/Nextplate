@@ -1,5 +1,5 @@
 ---
-title: 'Product Designer vs. UX Designer: An Explained Analysis.'
+title: 'Product Designer vs. UX Designer: An Explained Analysis'
 meta_title: 'Product Designer vs. UX Designer: An Explained Analysis.'
 date: 2025-08-23T04:07:00.000Z
 last_update: 2025-08-27T04:07:00.000Z
