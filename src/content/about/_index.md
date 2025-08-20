@@ -1,5 +1,5 @@
 ---
-title: This is the Title
+title: 'This is the Title asdfa. '
 meta_title: This is meta title
 description: This is meta description
 image: /images/avatar.png
