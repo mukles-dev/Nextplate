@@ -15,4 +15,11 @@ categories:
   - saiyara movie
 draft: false
 ---
-![image.png](/images/image_copy\(5\).png)
+
+Testing again
+
+{{% feature-panel "Test" %}}
+
+{{% pull-quote foo="Testing" %}}
+Things
+{{% /pull-quote %}}
