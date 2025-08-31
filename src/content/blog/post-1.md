@@ -89,6 +89,8 @@ Hugo's performance advantages stem from:
 
 ### Local Development Experience
 
+
+
 Both generators provide local development servers with hot reload capabilities:
 
 **Hugo Development:**
@@ -300,6 +302,8 @@ Hugo now powers **more than double** the number of websites compared to Jekyll, 
 ## Hugo Showcase
 
 Here are some exceptional websites built with Hugo that demonstrate its capabilities across different industries:
+
+- **[Hire Lions](/test)**
 
 - **[Hire Lions](https://www.hirelions.com/)**
 
