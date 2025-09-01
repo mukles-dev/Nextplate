@@ -1,6 +1,6 @@
 ---
 title: Hugo vs Jekyll 2025 - Which Static Site Generator Should You Choose?
-meta_title: ''
+meta_title: Hugo vs Jekyll 2025 - Which Static Site Generator Should You Choose?
 description: >-
   Compare Hugo vs Jekyll — the top static site generators of 2025. Discover key
   differences in speed, features, ease of use, and community support to choose
