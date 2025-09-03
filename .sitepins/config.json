@@ -10,7 +10,6 @@
     "root": "src/app"
   },
   "themeConfig": [
-    ".sitepins/config.json",
     "src/config"
   ],
   "arrangement": [],
