@@ -7,7 +7,7 @@
     "root": "src/content"
   },
   "code": {
-    "root": "src/app"
+    "root": "src/app/about"
   },
   "themeConfig": [
     ".sitepins/config.json",
