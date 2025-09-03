@@ -10,7 +10,8 @@
     "root": "src/app"
   },
   "themeConfig": [
-    "src/config"
+    "src/config",
+    ".sitepins/config.json"
   ],
   "arrangement": [],
   "showCommitModal": false
