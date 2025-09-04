@@ -14,16 +14,14 @@
     ".sitepins/config.json"
   ],
   "arrangement": [],
-  {
   "templates": [
     {
       "name": "BlogPost",
       "label": "Blog Post",
       "fields": [
-        { "name": "title", "type": "string", "label": "Title" },
+        { "name": "title", "type": "string", "label": "Title" }
       ]
     }
-  ]
-}
+  ],
   "showCommitModal": false
 }
