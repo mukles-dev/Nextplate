@@ -5,8 +5,9 @@ description: This is meta description
 image: /images/avatar.png
 draft: false
 ---
-
 I attended the first day of Google I/O 2025 and left feeling a mix of excitement and anxiety. On one hand, as a user and developer, I’m excited for the new products and features. Google is truly a marvel of modern technology and that was on full display with products like Flow, AndroidXR, and Search. On the other hand, I’m terrified at what it means for the SEO community because the skillset and technology we use to support driving visibility is not prepared for where things are headed. To top it off, the ongoing conversation is keeping people complacent which is dangerous for the advancement of the field.
+
+<BlogPost />
 
 There’s been much chatter within the SEO community lately about how the generative AI driven features of Google make no difference; “it’s just SEO.” In fact, Google’s [latest](https://developers.google.com/search/blog/2025/05/succeeding-in-ai-search) [attempts](https://developers.google.com/search/docs/appearance/ai-features) at guidance reflect that. Much of the argument is rooted in the overlapping mechanics between generative information retrieval and classic information retrieval for the web.
 
@@ -28,7 +29,7 @@ What this position gets wrong isn’t just technical nuance; it’s the complete
 
 ### SEO is a Discipline Without Boundaries
 
-Part of the confusion stems from the fact that SEO has no fixed perimeter. It has absorbed, borrowed, and repurposed concepts from disciplines like performance engineering, information architecture, UX, analytics, and content strategy, often at Google’s prompting. 
+Part of the confusion stems from the fact that SEO has no fixed perimeter. It has absorbed, borrowed, and repurposed concepts from disciplines like performance engineering, information architecture, UX, analytics, and content strategy, often at Google’s prompting.
 
 Structured data? Now SEO. Site speed? SEO. Entity modeling? SEO. And the list goes on.
 
@@ -62,11 +63,11 @@ That said, SEO has always struggled with the distinction between strategy and ta
 
 We are no longer aligned with what Google is trying to accomplish. We want visibility and traffic. Google wants to help people meet their information needs and they look at traffic as a [“necessary evil.”](https://searchengineland.com/google-traffic-publishers-necessary-evil-453562)
 
-Watch the search section of the Google I/O 2025 keynote or [read Liz Reid’s blog post on the same](https://blog.google/products/search/google-search-ai-mode-update/). It’s clear that they want to [do the Googling for you](https://blog.google/products/search/generative-ai-google-search-may-2024). 
+Watch the search section of the Google I/O 2025 keynote or [read Liz Reid’s blog post on the same](https://blog.google/products/search/google-search-ai-mode-update/). It’s clear that they want to [do the Googling for you](https://blog.google/products/search/generative-ai-google-search-may-2024).
 
 On another panel, Liz explained how, historically, for a multi-part query, the user would have to search for each component query and stitch the information together themselves. This speaks to the same concepts that Andrei Broder highlights in his [Delphic Costs paper](https://arxiv.org/abs/2308.07525) on how the cognitive load for search is too high. Now, Google can pull from results from many queries and stitch together a robust and intelligent response for you.
 
-Yes, the base level of the SEO work involved is still about being crawled, rendered, processed, indexed, ranked, and re-ranked. However, that’s just where things start for a surface like AI Mode. What’s different is that we don’t have much control over how we show up on the other side of the result. 
+Yes, the base level of the SEO work involved is still about being crawled, rendered, processed, indexed, ranked, and re-ranked. However, that’s just where things start for a surface like AI Mode. What’s different is that we don’t have much control over how we show up on the other side of the result.
 
 Google’s AI Mode incorporates reasoning, personal context, and later may incorporate aspects of DeepSearch. These are all mechanisms that we don’t and likely won’t have visibility into that make search probabilistic. The SEO community currently does not have data to indicate performance, nor tooling to support our understanding of what to do. So, while we can build sites that are technically sound, create content, and build all the links, this is just one set of many inputs that go into a bigger mix and come out unrecognizable on the other side.
 
@@ -90,7 +91,7 @@ Siiiiigh…..there is a lot of work to be done.
 
 #### Maybe James Cadwallader was Right After All
 
-At SEO Week, James Cadwallader, co-founder and CEO of [conversational search analytics platform Profound](https://www.tryprofound.com/) casually declared that “SEO will become an antiquated function.” He quickly couched that by saying that Agent Experience (AX) is something that SEOs are uniquely positioned to transition to. 
+At SEO Week, James Cadwallader, co-founder and CEO of [conversational search analytics platform Profound](https://www.tryprofound.com/) casually declared that “SEO will become an antiquated function.” He quickly couched that by saying that Agent Experience (AX) is something that SEOs are uniquely positioned to transition to.
 
 Before he got there, he thoughtfully made his case, explaining that the original paradigm of the web was a two-sided marketplace and the advent of the agentic web upends the user-website interaction model. Poignantly, James concluded that the user doesn’t care where content comes from as long as they get viable answers.
 
@@ -106,17 +107,17 @@ James’s talk is more biased towards OpenAI’s offerings, but as we’ve seen,
 
 At I/O, we had some discussions with Google engineers, and part of the conversation revolved around recognition that the relationship between them and our community is symbiotic, although simultaneously and paradoxically one-sided. After all, the web would not have adopted the secure protocol, structured data, or Core Web Vitals as fast or as completely as it did if our community did not do the legwork to make it happen. I hope whoever had those social engineering OKRs got promoted.
 
-We also discussed how sites are losing clicks due to AIOs, and how we don’t have any data or any air cover from Google to prove to enterprises that the landscape has changed. 
+We also discussed how sites are losing clicks due to AIOs, and how we don’t have any data or any air cover from Google to prove to enterprises that the landscape has changed.
 
 I’d suggested that it would have been helpful to have insights from internal usability studies or some results from the Google Labs tests of AIOs to know search behavior is changing. The engineers seemed surprised to hear how universal the click losses have been. Ultimately, we were told, again, that things are moving so fast and are so volatile that it would have been difficult to provide any data or warnings up front to have helped our community through this process. However, there were allusions that there will be future releases that may help. Since that conversation, we’ve gotten a couple of articles on Search Central that allude to the improved quality of visits from search and direction to stop measuring clicks.
 
 So, I’m not sure whether to say “I’m sorry” or “you’re welcome.” Accept whichever works for you.
 
-However, it’s difficult to hear such things and then learn the next day from the Google Marketing Live event that [advertisers will have query-level data about AIOs](https://blog.google/products/ads-commerce/google-search-ai-brand-discovery/), but it is what it is. 
+However, it’s difficult to hear such things and then learn the next day from the Google Marketing Live event that [advertisers will have query-level data about AIOs](https://blog.google/products/ads-commerce/google-search-ai-brand-discovery/), but it is what it is.
 
 I also asked what they think our role should be in an agentic environment driven by reasoning, personal context, and DeepResearch. Aside from the standard “create great and unique and non-commodity content,” they said they weren’t sure.
 
-And, that’s fine. We were in a similar position when RankBrain launched, and the party line was that Google didn’t know how their new stuff worked. It’s not like they were going to tell us to start using vector embeddings to understand the relevance of our content. It simply means it’s time to activate our community and get back to experimenting and learning. 
+And, that’s fine. We were in a similar position when RankBrain launched, and the party line was that Google didn’t know how their new stuff worked. It’s not like they were going to tell us to start using vector embeddings to understand the relevance of our content. It simply means it’s time to activate our community and get back to experimenting and learning.
 
 Unfortunately, I don’t know that everyone is going to make it through this era. The same way some of the last generation’s SEOs couldn’t survive the paradigm shift post-Panda and Penguin, I suspect some won’t cross the chasm into this next wave of search technology.
 
@@ -205,7 +206,7 @@ This has several strategic consequences:
 * The winner is chosen by a model capable of reasoning, not just counting tokens or (yikes) keyword density.
 * Passage clarity, completeness, and semantic tightness become even more critical because your content must survive pairwise scrutiny.
 
-The implication is clear: it’s not enough to rank somewhere for a topic. You must engineer passages that can outperform competing content head-to-head in LLM evaluations, not just semantic similarity. 
+The implication is clear: it’s not enough to rank somewhere for a topic. You must engineer passages that can outperform competing content head-to-head in LLM evaluations, not just semantic similarity.
 
 #### AI Mode Has Ambient Memory and Adaptive Interfaces
 
