@@ -1,0 +1,26 @@
+{
+  "file": "src/content/authors/john-doe.md",
+  "name": "authors",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "name": "name",
+      "label": "name",
+      "type": "media",
+      "value": "",
+      "description": "",
+      "isRequired": false,
+      "defaultValue": ""
+    },
+    {
+      "name": "lable",
+      "label": "lable",
+      "type": "boolean",
+      "value": false,
+      "description": "",
+      "isRequired": false,
+      "defaultValue": "false"
+    }
+  ]
+}
